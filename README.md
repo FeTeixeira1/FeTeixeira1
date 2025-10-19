@@ -11,7 +11,7 @@
 <div align="center">
   
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,python,react,reactnative,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,python,react,mysql" /><br>
 
 </div>
 
